@@ -1,0 +1,99 @@
+Model,Year,Region,Color,Fuel Type,Turbo,Total_Base_Price_USD,Total_Sales_Volume,Total_Horsepower
+CLS,2021,Global,Brown,Electric,No,45177,1,495
+CLS,2020,Global,Orange,Hybrid,No,45769,1,456
+CLS,2021,Global,Orange,Electric,No,58010,1,311
+GLA,2020,Global,Orange,Hybrid,No,76669,1,308
+CLS,2021,Global,Orange,Hybrid,No,88398,1,389
+CLA,2020,Global,Orange,Hybrid,No,112695,2,778
+CLS,2021,Global,Yellow,Electric,No,114302,2,930
+CLS,2020,Global,Red,Hybrid,No,115608,2,720
+AMG S 63,2020,Global,Green,Diesel,No,122160,1,802
+CLS,2020,Global,Blue,Hybrid,No,126436,2,872
+AMG A 45,2021,Global,Red,Electric,No,128894,1,413
+AMG E 63,2021,Global,Grey,Electric,No,129170,1,591
+AMG S 63,2021,Global,Orange,Diesel,No,133561,1,795
+AMG A 45,2021,Global,Orange,Diesel,No,134328,1,390
+CLS,2021,Global,Orange,Electric,Yes,135286,2,883
+CLS,2021,Global,Green,Electric,No,135891,2,824
+CLA,2020,Global,Green,Hybrid,No,138819,2,732
+AMG GT,2024,Global,Orange,Diesel,No,140698,1,777
+AMG E 63,2023,Global,Orange,Hybrid,No,143433,1,590
+AMG S 63,2023,Global,Orange,Petrol,No,144892,1,811
+AMG S 63,2022,Global,Yellow,Hybrid,No,145118,1,793
+CLA,2021,Global,Orange,Electric,No,145157,2,745
+AMG S 63,2020,Global,Black,Hybrid,No,145652,1,795
+AMG S 63,2022,Global,Red,Electric,No,147153,1,794
+AMG A 45,2025,Global,Yellow,Diesel,No,151590,1,396
+CLS,2020,Global,Green,Hybrid,No,152193,2,670
+AMG GT,2025,Global,Yellow,Diesel,No,157169,1,726
+AMG A 45,2021,Global,Blue,Electric,No,157422,1,396
+AMG GT,2021,Global,Black,Electric,No,160027,1,732
+AMG GT,2023,Global,Green,Diesel,No,161259,1,655
+AMG GT,2021,Global,Brown,Hybrid,No,163333,1,794
+AMG E 63,2024,Global,Brown,Diesel,No,163440,1,594
+AMG E 63,2023,Global,Brown,Electric,No,165609,1,595
+AMG E 63,2025,Global,Green,Diesel,No,168025,1,572
+AMG C 63,2022,Global,Orange,Diesel,No,173250,1,509
+G-Class,2021,Global,Brown,Electric,No,174887,1,539
+AMG E 63,2024,Global,Brown,Hybrid,No,178006,1,608
+AMG S 63,2020,Global,Brown,Diesel,No,182550,1,804
+AMG GT,2023,Global,Orange,Diesel,No,182575,1,726
+AMG GT,2022,Global,Blue,Electric,No,189966,1,551
+AMG GT,2022,Global,Silver,Electric,No,190071,1,811
+AMG C 63,2024,Global,Yellow,Diesel,No,194007,1,478
+AMG C 63,2022,Global,Red,Electric,No,197437,1,488
+AMG C 63,2021,Global,Yellow,Hybrid,No,198903,1,508
+AMG GT,2025,Global,Orange,Hybrid,No,200195,1,807
+AMG S 63,2023,Global,Green,Diesel,No,203855,1,804
+AMG C 63,2020,Global,White,Hybrid,No,204346,1,509
+AMG E 63,2025,Global,Yellow,Electric,No,208900,1,572
+CLS,2021,Global,Red,Electric,No,209438,4,1610
+AMG S 63,2023,Global,Orange,Hybrid,No,216236,1,812
+AMG A 45,2021,Global,Grey,Electric,No,217533,1,421
+AMG C 63,2022,Global,Brown,Diesel,No,218636,1,480
+AMG GT,2025,Global,Orange,Electric,No,218638,1,811
+AMG E 63,2020,Global,Black,Hybrid,No,219342,1,579
+AMG S 63,2020,Global,Orange,Petrol,No,221556,1,802
+AMG GT,2025,Global,Orange,Petrol,No,222788,1,686
+G-Class,2021,Global,Orange,Electric,No,225431,1,514
+AMG A 45,2020,Global,Orange,Diesel,No,226120,1,421
+AMG A 45,2022,Global,Blue,Electric,No,228852,1,402
+AMG E 63,2023,Global,Orange,Diesel,No,230321,1,608
+CLS,2020,Global,Silver,Hybrid,No,230747,4,1590
+AMG S 63,2022,Global,Brown,Hybrid,No,232105,1,805
+AMG C 63,2022,Global,Yellow,Electric,No,236623,1,479
+CLS,2020,Global,Yellow,Hybrid,No,239819,3,1402
+CLS,2023,Global,Orange,Electric,No,240292,3,1352
+AMG S 63,2022,Global,Brown,Diesel,No,240828,1,803
+AMG S 63,2021,Global,Orange,Electric,Yes,241567,1,799
+AMG C 63,2020,Global,Red,Hybrid,No,243030,1,486
+AMG A 45,2022,Global,Green,Electric,No,245624,1,404
+AMG A 45,2020,Global,Green,Hybrid,No,248289,1,412
+AMG S 63,2021,Global,Blue,Electric,No,249149,1,801
+AMG E 63,2024,Global,Orange,Hybrid,No,251607,1,590
+AMG S 63,2025,Global,Brown,Electric,No,252489,1,810
+AMG S 63,2023,Global,Brown,Electric,No,252745,1,802
+G-Class,2021,Global,Blue,Electric,No,253328,1,469
+AMG A 45,2020,Global,Blue,Hybrid,No,254006,1,390
+AMG GT,2024,Global,Yellow,Diesel,No,255597,1,725
+AMG A 45,2025,Global,Orange,Diesel,No,255682,1,417
+AMG S 63,2023,Global,Red,Electric,No,258182,1,793
+AMG S 63,2025,Global,Brown,Diesel,No,258797,1,802
+AMG S 63,2022,Global,Green,Hybrid,No,259554,1,808
+AMG A 45,2022,Global,Orange,Hybrid,No,259685,1,393
+AMG E 63,2021,Global,Orange,Electric,Yes,267440,1,590
+AMG S 63,2022,Global,Green,Electric,No,268033,1,793
+AMG E 63,2022,Global,Orange,Diesel,No,268038,1,605
+AMG C 63,2024,Global,Orange,Electric,No,270515,1,505
+G-Class,2022,Global,Orange,Hybrid,No,275206,1,502
+AMG C 63,2020,Global,Orange,Hybrid,Yes,276166,1,502
+AMG E 63,2023,Global,Brown,Diesel,No,276300,1,596
+AMG GT,2024,Global,Blue,Diesel,No,280613,1,621
+AMG GT,2020,Global,Red,Hybrid,No,281502,1,683
+AMG E 63,2021,Global,Red,Hybrid,No,284179,1,591
+G-Class,2020,Global,Orange,Hybrid,No,284319,1,433
+AMG S 63,2022,Global,Blue,Electric,No,284474,1,809
+AMG A 45,2020,Global,Brown,Hybrid,No,285824,1,406
+AMG S 63,2024,Global,Orange,Hybrid,No,288241,1,797
+AMG S 63,2024,Global,Yellow,Diesel,No,288814,1,809
+AMG S 63,2020,Global,Orange,Hybrid,Yes,291353,1,795
