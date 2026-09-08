@@ -23,7 +23,7 @@ The data architecture is engineered to prevent memory overflows (OOM) through st
 
  [ Raw CSV Data (12M+ Rows) ]
               │
-              ▼ (Chunked Stream Ingestion @ Batch Size = 500k)
+              ▼ (used read_csv to load data by indexing )
  [ Staging & Type Casting Layer (SQL / Pandas Buffer) ]
               │
               ├──► Filter: Base Price > 0, Horsepower > 0, Sales Volume > 0
