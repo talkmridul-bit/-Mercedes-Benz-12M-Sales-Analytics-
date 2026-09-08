@@ -42,13 +42,16 @@ The data architecture is engineered to prevent memory overflows (OOM) through st
 
 Processing 12M rows natively in Python/Pandas or SQL engines often causes Out-Of-Memory (OOM) errors on low-spec hardware. The following engineering patterns were enforced:
 
-    Chunked Iteration (Generator Pattern): Instead of loading all 12 million rows into memory simultaneously, the data pipeline consumes the CSV in sequential chunks (e.g., 500,000 rows per batch).
+    Chunked Iteration (Generator Pattern): Instead of loading all 12 million rows into memory simultaneously, 
+    the data pipeline consumes the CSV in sequential chunks (e.g., 500,000 rows per batch).
 
     Aggressive Downcasting:
 
         Floats and unoptimized integers are dynamically cast to efficient types (int32, int64 only where necessary).
 
-        Categorical string columns (Model, Color, Fuel Type) are converted to Pandas category dtype to minimize memory footprint by up to 70%.
+        Categorical string columns (Model, Color, Fuel Type) are converted to Pandas category dtype to minimize memory 
+        footprint by up to 70%.
 
-    In-Stream Aggregation: Partial aggregations are computed per chunk and accumulated, avoiding large intermediate join tables in RAM.
+    In-Stream Aggregation: Partial aggregations are computed per chunk and accumulated, 
+    avoiding large intermediate join tables in RAM.
     
