@@ -56,7 +56,8 @@ Processing 12M rows natively in Python/Pandas or SQL engines often causes Out-Of
     avoiding large intermediate join tables in RAM.
 
 
-    trategic Business Recommendations
+  **  Strategic Business Recommendations:**
+    
     Turbocharger Standardization & R&D Allocation:
     
                    Given that Turbo configurations drive over 85% of global sales volume and revenue, capital expenditure (CapEx) should fully transition away from non-turbo legacy blocks. Focus engineering efforts on hybrid-turbo integration to meet upcoming global emission standards without sacrificing performance. 
